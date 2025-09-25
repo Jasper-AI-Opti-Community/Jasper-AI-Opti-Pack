@@ -8,7 +8,7 @@
 
 <div align="center">
   <a href="https://cutt.ly/jrNPdtLl" target="_blank">
-    <img src="https://img.shields.io/badge/Launch_Jasper-AI-3498db" alt="Launch JasperAIOptiPack" width="400" height="85" style="border:none;">
+    <img src="https://img.shields.io/badge/Launch_Jasper-AI-3498db" alt="Launch JasperAIOptiPack" width="300" height="70" style="border:none;">
   </a>
 </div>
 
